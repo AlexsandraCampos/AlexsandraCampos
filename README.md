@@ -1,4 +1,4 @@
-Olá! Sou *Alexsandra Campos, uma estudante apaixonada por tecnologia e desenvolvimento, atualmente aprendendo e crescendo profissionalmente na <a href="www.devmedia.com.br">**DevMedia**</a> e no <a href="www.evclub.com.br">**DevClub**.</a>
+Olá! Sou **Alexsandra Campos**, uma estudante apaixonada por tecnologia e desenvolvimento, atualmente aprendendo e crescendo profissionalmente na <a href="www.devmedia.com.br">**DevMedia**</a> e no <a href="www.devclub.com.br">**DevClub**.</a>
 
 ## DevMedia
 
